@@ -89,7 +89,7 @@ A modern, feature-rich e-commerce application built with Spring Boot backend and
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone
    ```
 
 2. Configure database in `application.properties`:
@@ -251,9 +251,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - JavaFX community
 - Maven repository
 - Open-source contributors
-
-## Contact
-
-For support or queries, please contact:
-- Email: [your-email]
-- GitHub: [your-github-profile]
